@@ -1,0 +1,632 @@
+[
+    {
+        "Student ID": 1,
+        "Course ID": 113,
+        "Semester": 5,
+        "Year": 2022,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 1,
+        "Course ID": 101,
+        "Semester": 5,
+        "Year": 2023,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 1,
+        "Course ID": 111,
+        "Semester": 5,
+        "Year": 2022,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 111,
+        "Semester": 5,
+        "Year": 2019,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 110,
+        "Semester": 2,
+        "Year": 2020,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 113,
+        "Semester": 6,
+        "Year": 2019,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 102,
+        "Semester": 4,
+        "Year": 2021,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 101,
+        "Semester": 3,
+        "Year": 2020,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 101,
+        "Semester": 2,
+        "Year": 2021,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 110,
+        "Semester": 2,
+        "Year": 2021,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 102,
+        "Semester": 4,
+        "Year": 2023,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 106,
+        "Semester": 5,
+        "Year": 2021,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 109,
+        "Semester": 5,
+        "Year": 2019,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 102,
+        "Semester": 7,
+        "Year": 2024,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 107,
+        "Semester": 3,
+        "Year": 2024,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 104,
+        "Semester": 5,
+        "Year": 2020,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 109,
+        "Semester": 4,
+        "Year": 2022,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 111,
+        "Semester": 5,
+        "Year": 2024,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 106,
+        "Semester": 8,
+        "Year": 2021,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 107,
+        "Semester": 6,
+        "Year": 2024,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 110,
+        "Semester": 7,
+        "Year": 2020,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 108,
+        "Semester": 3,
+        "Year": 2022,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 109,
+        "Semester": 4,
+        "Year": 2024,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 101,
+        "Semester": 2,
+        "Year": 2019,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 113,
+        "Semester": 5,
+        "Year": 2022,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 103,
+        "Semester": 5,
+        "Year": 2024,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 112,
+        "Semester": 4,
+        "Year": 2022,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 107,
+        "Semester": 5,
+        "Year": 2023,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 106,
+        "Semester": 5,
+        "Year": 2022,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 113,
+        "Semester": 6,
+        "Year": 2020,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 101,
+        "Semester": 1,
+        "Year": 2024,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 115,
+        "Semester": 2,
+        "Year": 2023,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 106,
+        "Semester": 1,
+        "Year": 2019,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 111,
+        "Semester": 2,
+        "Year": 2022,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 111,
+        "Semester": 6,
+        "Year": 2021,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 115,
+        "Semester": 2,
+        "Year": 2024,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 114,
+        "Semester": 1,
+        "Year": 2019,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 114,
+        "Semester": 3,
+        "Year": 2021,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 102,
+        "Semester": 5,
+        "Year": 2022,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 112,
+        "Semester": 4,
+        "Year": 2021,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 101,
+        "Semester": 1,
+        "Year": 2023,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 115,
+        "Semester": 5,
+        "Year": 2019,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 112,
+        "Semester": 5,
+        "Year": 2022,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 104,
+        "Semester": 6,
+        "Year": 2019,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 105,
+        "Semester": 6,
+        "Year": 2021,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 102,
+        "Semester": 3,
+        "Year": 2020,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 115,
+        "Semester": 8,
+        "Year": 2023,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 109,
+        "Semester": 6,
+        "Year": 2020,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 107,
+        "Semester": 3,
+        "Year": 2019,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 105,
+        "Semester": 2,
+        "Year": 2020,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 104,
+        "Semester": 1,
+        "Year": 2024,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 113,
+        "Semester": 1,
+        "Year": 2020,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 115,
+        "Semester": 5,
+        "Year": 2021,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 109,
+        "Semester": 6,
+        "Year": 2023,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 108,
+        "Semester": 4,
+        "Year": 2023,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 112,
+        "Semester": 5,
+        "Year": 2020,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 104,
+        "Semester": 7,
+        "Year": 2019,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 102,
+        "Semester": 7,
+        "Year": 2023,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 109,
+        "Semester": 5,
+        "Year": 2024,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 106,
+        "Semester": 5,
+        "Year": 2024,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 109,
+        "Semester": 8,
+        "Year": 2021,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 105,
+        "Semester": 3,
+        "Year": 2023,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 102,
+        "Semester": 2,
+        "Year": 2024,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 103,
+        "Semester": 3,
+        "Year": 2020,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 103,
+        "Semester": 1,
+        "Year": 2022,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 105,
+        "Semester": 3,
+        "Year": 2024,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 114,
+        "Semester": 8,
+        "Year": 2020,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 102,
+        "Semester": 1,
+        "Year": 2023,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 102,
+        "Semester": 7,
+        "Year": 2019,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 111,
+        "Semester": 8,
+        "Year": 2019,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 102,
+        "Semester": 1,
+        "Year": 2020,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 106,
+        "Semester": 6,
+        "Year": 2022,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 105,
+        "Semester": 2,
+        "Year": 2023,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 113,
+        "Semester": 8,
+        "Year": 2023,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 114,
+        "Semester": 7,
+        "Year": 2024,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 105,
+        "Semester": 8,
+        "Year": 2023,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 109,
+        "Semester": 5,
+        "Year": 2022,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 111,
+        "Semester": 4,
+        "Year": 2019,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 111,
+        "Semester": 1,
+        "Year": 2019,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 114,
+        "Semester": 3,
+        "Year": 2020,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 106,
+        "Semester": 8,
+        "Year": 2024,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 107,
+        "Semester": 1,
+        "Year": 2023,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 111,
+        "Semester": 1,
+        "Year": 2019,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 105,
+        "Semester": 5,
+        "Year": 2022,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 115,
+        "Semester": 3,
+        "Year": 2020,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 105,
+        "Semester": 4,
+        "Year": 2024,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 104,
+        "Semester": 4,
+        "Year": 2020,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 106,
+        "Semester": 2,
+        "Year": 2022,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 115,
+        "Semester": 5,
+        "Year": 2023,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 108,
+        "Semester": 7,
+        "Year": 2019,
+        "Grade": "A"
+    }
+]

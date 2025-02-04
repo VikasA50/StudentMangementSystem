@@ -1,0 +1,107 @@
+[
+    {
+        "Course ID": 101,
+        "Course Name": "Data Structures",
+        "Credits": 3,
+        "Department": "Computer Science",
+        "Faculty ID": 1
+    },
+    {
+        "Course ID": 102,
+        "Course Name": "Algorithms",
+        "Credits": 4,
+        "Department": "Computer Science",
+        "Faculty ID": 2
+    },
+    {
+        "Course ID": 103,
+        "Course Name": "Operating Systems",
+        "Credits": 3,
+        "Department": "Computer Science",
+        "Faculty ID": 3
+    },
+    {
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Credits": 3,
+        "Department": "Computer Science",
+        "Faculty ID": 4
+    },
+    {
+        "Course ID": 105,
+        "Course Name": "Computer Networks",
+        "Credits": 3,
+        "Department": "Computer Science",
+        "Faculty ID": 5
+    },
+    {
+        "Course ID": 106,
+        "Course Name": "Power Systems",
+        "Credits": 4,
+        "Department": "Electrical Engineering",
+        "Faculty ID": 6
+    },
+    {
+        "Course ID": 107,
+        "Course Name": "Control Systems",
+        "Credits": 3,
+        "Department": "Electrical Engineering",
+        "Faculty ID": 7
+    },
+    {
+        "Course ID": 108,
+        "Course Name": "Microprocessors",
+        "Credits": 3,
+        "Department": "Electrical Engineering",
+        "Faculty ID": 8
+    },
+    {
+        "Course ID": 109,
+        "Course Name": "Thermodynamics",
+        "Credits": 3,
+        "Department": "Mechanical Engineering",
+        "Faculty ID": 9
+    },
+    {
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Credits": 3,
+        "Department": "Mechanical Engineering",
+        "Faculty ID": 10
+    },
+    {
+        "Course ID": 111,
+        "Course Name": "Structural Analysis",
+        "Credits": 3,
+        "Department": "Civil Engineering",
+        "Faculty ID": 11
+    },
+    {
+        "Course ID": 112,
+        "Course Name": "Surveying",
+        "Credits": 3,
+        "Department": "Civil Engineering",
+        "Faculty ID": 12
+    },
+    {
+        "Course ID": 113,
+        "Course Name": "Digital Electronics",
+        "Credits": 3,
+        "Department": "Electronics Engineering",
+        "Faculty ID": 13
+    },
+    {
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Credits": 3,
+        "Department": "Electronics Engineering",
+        "Faculty ID": 14
+    },
+    {
+        "Course ID": 115,
+        "Course Name": "Software Engineering",
+        "Credits": 3,
+        "Department": "Information Technology",
+        "Faculty ID": 15
+    }
+]

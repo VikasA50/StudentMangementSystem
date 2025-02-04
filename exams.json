@@ -1,0 +1,722 @@
+[
+    {
+        "Student ID": 1,
+        "Course ID": 102,
+        "Assignments": 86,
+        "Projects": 92,
+        "Online Tests": 74,
+        "Discussions": 72
+    },
+    {
+        "Student ID": 1,
+        "Course ID": 112,
+        "Assignments": 69,
+        "Projects": 97,
+        "Online Tests": 95,
+        "Discussions": 96
+    },
+    {
+        "Student ID": 1,
+        "Course ID": 102,
+        "Assignments": 50,
+        "Projects": 52,
+        "Online Tests": 97,
+        "Discussions": 69
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 112,
+        "Assignments": 81,
+        "Projects": 89,
+        "Online Tests": 69,
+        "Discussions": 69
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 108,
+        "Assignments": 85,
+        "Projects": 65,
+        "Online Tests": 92,
+        "Discussions": 91
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 103,
+        "Assignments": 80,
+        "Projects": 99,
+        "Online Tests": 97,
+        "Discussions": 85
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 102,
+        "Assignments": 68,
+        "Projects": 78,
+        "Online Tests": 85,
+        "Discussions": 50
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 107,
+        "Assignments": 90,
+        "Projects": 79,
+        "Online Tests": 50,
+        "Discussions": 82
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 104,
+        "Assignments": 80,
+        "Projects": 77,
+        "Online Tests": 63,
+        "Discussions": 60
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 103,
+        "Assignments": 55,
+        "Projects": 62,
+        "Online Tests": 74,
+        "Discussions": 68
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 103,
+        "Assignments": 51,
+        "Projects": 70,
+        "Online Tests": 74,
+        "Discussions": 92
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 101,
+        "Assignments": 77,
+        "Projects": 65,
+        "Online Tests": 53,
+        "Discussions": 95
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 109,
+        "Assignments": 80,
+        "Projects": 55,
+        "Online Tests": 100,
+        "Discussions": 96
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 114,
+        "Assignments": 96,
+        "Projects": 98,
+        "Online Tests": 73,
+        "Discussions": 57
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 113,
+        "Assignments": 95,
+        "Projects": 96,
+        "Online Tests": 51,
+        "Discussions": 99
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 104,
+        "Assignments": 53,
+        "Projects": 54,
+        "Online Tests": 87,
+        "Discussions": 84
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 114,
+        "Assignments": 59,
+        "Projects": 77,
+        "Online Tests": 65,
+        "Discussions": 82
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 114,
+        "Assignments": 69,
+        "Projects": 65,
+        "Online Tests": 51,
+        "Discussions": 83
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 109,
+        "Assignments": 75,
+        "Projects": 55,
+        "Online Tests": 80,
+        "Discussions": 89
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 110,
+        "Assignments": 76,
+        "Projects": 91,
+        "Online Tests": 66,
+        "Discussions": 58
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 113,
+        "Assignments": 73,
+        "Projects": 88,
+        "Online Tests": 99,
+        "Discussions": 54
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 112,
+        "Assignments": 50,
+        "Projects": 75,
+        "Online Tests": 89,
+        "Discussions": 77
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 109,
+        "Assignments": 53,
+        "Projects": 92,
+        "Online Tests": 98,
+        "Discussions": 85
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 108,
+        "Assignments": 59,
+        "Projects": 55,
+        "Online Tests": 86,
+        "Discussions": 89
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 104,
+        "Assignments": 98,
+        "Projects": 80,
+        "Online Tests": 82,
+        "Discussions": 89
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 112,
+        "Assignments": 78,
+        "Projects": 74,
+        "Online Tests": 56,
+        "Discussions": 50
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 101,
+        "Assignments": 67,
+        "Projects": 100,
+        "Online Tests": 65,
+        "Discussions": 60
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 113,
+        "Assignments": 58,
+        "Projects": 77,
+        "Online Tests": 86,
+        "Discussions": 77
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 110,
+        "Assignments": 67,
+        "Projects": 89,
+        "Online Tests": 65,
+        "Discussions": 74
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 111,
+        "Assignments": 72,
+        "Projects": 87,
+        "Online Tests": 79,
+        "Discussions": 54
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 103,
+        "Assignments": 86,
+        "Projects": 59,
+        "Online Tests": 90,
+        "Discussions": 50
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 112,
+        "Assignments": 53,
+        "Projects": 89,
+        "Online Tests": 62,
+        "Discussions": 88
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 102,
+        "Assignments": 90,
+        "Projects": 59,
+        "Online Tests": 80,
+        "Discussions": 74
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 106,
+        "Assignments": 91,
+        "Projects": 60,
+        "Online Tests": 98,
+        "Discussions": 95
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 115,
+        "Assignments": 72,
+        "Projects": 97,
+        "Online Tests": 57,
+        "Discussions": 85
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 113,
+        "Assignments": 100,
+        "Projects": 80,
+        "Online Tests": 71,
+        "Discussions": 69
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 107,
+        "Assignments": 84,
+        "Projects": 96,
+        "Online Tests": 64,
+        "Discussions": 52
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 114,
+        "Assignments": 51,
+        "Projects": 94,
+        "Online Tests": 65,
+        "Discussions": 80
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 109,
+        "Assignments": 75,
+        "Projects": 82,
+        "Online Tests": 99,
+        "Discussions": 85
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 104,
+        "Assignments": 77,
+        "Projects": 90,
+        "Online Tests": 57,
+        "Discussions": 76
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 106,
+        "Assignments": 95,
+        "Projects": 68,
+        "Online Tests": 82,
+        "Discussions": 92
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 111,
+        "Assignments": 66,
+        "Projects": 89,
+        "Online Tests": 67,
+        "Discussions": 60
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 113,
+        "Assignments": 50,
+        "Projects": 75,
+        "Online Tests": 80,
+        "Discussions": 59
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 115,
+        "Assignments": 51,
+        "Projects": 90,
+        "Online Tests": 58,
+        "Discussions": 55
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 106,
+        "Assignments": 72,
+        "Projects": 60,
+        "Online Tests": 68,
+        "Discussions": 58
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 101,
+        "Assignments": 54,
+        "Projects": 97,
+        "Online Tests": 77,
+        "Discussions": 81
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 104,
+        "Assignments": 82,
+        "Projects": 91,
+        "Online Tests": 76,
+        "Discussions": 82
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 110,
+        "Assignments": 93,
+        "Projects": 73,
+        "Online Tests": 60,
+        "Discussions": 76
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 112,
+        "Assignments": 86,
+        "Projects": 80,
+        "Online Tests": 97,
+        "Discussions": 74
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 109,
+        "Assignments": 57,
+        "Projects": 99,
+        "Online Tests": 58,
+        "Discussions": 82
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 110,
+        "Assignments": 69,
+        "Projects": 77,
+        "Online Tests": 84,
+        "Discussions": 78
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 110,
+        "Assignments": 52,
+        "Projects": 75,
+        "Online Tests": 61,
+        "Discussions": 55
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 105,
+        "Assignments": 97,
+        "Projects": 99,
+        "Online Tests": 60,
+        "Discussions": 81
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 107,
+        "Assignments": 65,
+        "Projects": 81,
+        "Online Tests": 88,
+        "Discussions": 87
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 112,
+        "Assignments": 54,
+        "Projects": 98,
+        "Online Tests": 58,
+        "Discussions": 74
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 101,
+        "Assignments": 79,
+        "Projects": 99,
+        "Online Tests": 79,
+        "Discussions": 100
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 107,
+        "Assignments": 72,
+        "Projects": 54,
+        "Online Tests": 89,
+        "Discussions": 78
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 115,
+        "Assignments": 95,
+        "Projects": 100,
+        "Online Tests": 99,
+        "Discussions": 88
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 113,
+        "Assignments": 55,
+        "Projects": 99,
+        "Online Tests": 69,
+        "Discussions": 70
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 103,
+        "Assignments": 92,
+        "Projects": 85,
+        "Online Tests": 83,
+        "Discussions": 63
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 110,
+        "Assignments": 91,
+        "Projects": 84,
+        "Online Tests": 64,
+        "Discussions": 59
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 112,
+        "Assignments": 59,
+        "Projects": 88,
+        "Online Tests": 93,
+        "Discussions": 79
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 108,
+        "Assignments": 80,
+        "Projects": 80,
+        "Online Tests": 92,
+        "Discussions": 74
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 106,
+        "Assignments": 55,
+        "Projects": 84,
+        "Online Tests": 60,
+        "Discussions": 69
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 108,
+        "Assignments": 88,
+        "Projects": 60,
+        "Online Tests": 64,
+        "Discussions": 74
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 110,
+        "Assignments": 100,
+        "Projects": 55,
+        "Online Tests": 65,
+        "Discussions": 97
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 107,
+        "Assignments": 59,
+        "Projects": 84,
+        "Online Tests": 53,
+        "Discussions": 97
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 115,
+        "Assignments": 92,
+        "Projects": 66,
+        "Online Tests": 53,
+        "Discussions": 86
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 114,
+        "Assignments": 59,
+        "Projects": 84,
+        "Online Tests": 63,
+        "Discussions": 100
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 103,
+        "Assignments": 62,
+        "Projects": 54,
+        "Online Tests": 96,
+        "Discussions": 76
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 114,
+        "Assignments": 70,
+        "Projects": 72,
+        "Online Tests": 98,
+        "Discussions": 68
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 107,
+        "Assignments": 55,
+        "Projects": 92,
+        "Online Tests": 62,
+        "Discussions": 99
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 113,
+        "Assignments": 87,
+        "Projects": 87,
+        "Online Tests": 94,
+        "Discussions": 51
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 111,
+        "Assignments": 84,
+        "Projects": 55,
+        "Online Tests": 69,
+        "Discussions": 88
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 105,
+        "Assignments": 81,
+        "Projects": 71,
+        "Online Tests": 85,
+        "Discussions": 82
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 107,
+        "Assignments": 77,
+        "Projects": 99,
+        "Online Tests": 91,
+        "Discussions": 56
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 114,
+        "Assignments": 74,
+        "Projects": 73,
+        "Online Tests": 80,
+        "Discussions": 88
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 114,
+        "Assignments": 65,
+        "Projects": 75,
+        "Online Tests": 66,
+        "Discussions": 50
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 113,
+        "Assignments": 83,
+        "Projects": 66,
+        "Online Tests": 51,
+        "Discussions": 57
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 110,
+        "Assignments": 67,
+        "Projects": 63,
+        "Online Tests": 56,
+        "Discussions": 86
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 114,
+        "Assignments": 81,
+        "Projects": 78,
+        "Online Tests": 96,
+        "Discussions": 65
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 106,
+        "Assignments": 67,
+        "Projects": 94,
+        "Online Tests": 59,
+        "Discussions": 94
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 109,
+        "Assignments": 89,
+        "Projects": 79,
+        "Online Tests": 94,
+        "Discussions": 99
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 105,
+        "Assignments": 65,
+        "Projects": 89,
+        "Online Tests": 81,
+        "Discussions": 62
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 104,
+        "Assignments": 77,
+        "Projects": 96,
+        "Online Tests": 83,
+        "Discussions": 60
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 114,
+        "Assignments": 83,
+        "Projects": 90,
+        "Online Tests": 90,
+        "Discussions": 55
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 103,
+        "Assignments": 87,
+        "Projects": 66,
+        "Online Tests": 64,
+        "Discussions": 57
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 107,
+        "Assignments": 68,
+        "Projects": 95,
+        "Online Tests": 61,
+        "Discussions": 66
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 105,
+        "Assignments": 58,
+        "Projects": 78,
+        "Online Tests": 61,
+        "Discussions": 96
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 110,
+        "Assignments": 87,
+        "Projects": 98,
+        "Online Tests": 60,
+        "Discussions": 72
+    }
+]

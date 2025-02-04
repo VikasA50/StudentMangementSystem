@@ -1,0 +1,632 @@
+[
+    {
+        "Attendance ID": 2001,
+        "Student ID": 1,
+        "Course ID": 114,
+        "Date": "2024-01-17",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2002,
+        "Student ID": 1,
+        "Course ID": 106,
+        "Date": "2024-01-08",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2003,
+        "Student ID": 1,
+        "Course ID": 115,
+        "Date": "2024-01-30",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2004,
+        "Student ID": 2,
+        "Course ID": 109,
+        "Date": "2024-01-06",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2005,
+        "Student ID": 2,
+        "Course ID": 105,
+        "Date": "2024-01-19",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2006,
+        "Student ID": 2,
+        "Course ID": 101,
+        "Date": "2024-01-24",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2007,
+        "Student ID": 3,
+        "Course ID": 114,
+        "Date": "2024-01-16",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2008,
+        "Student ID": 3,
+        "Course ID": 114,
+        "Date": "2024-01-01",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2009,
+        "Student ID": 3,
+        "Course ID": 111,
+        "Date": "2024-01-31",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2010,
+        "Student ID": 4,
+        "Course ID": 112,
+        "Date": "2024-01-07",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2011,
+        "Student ID": 4,
+        "Course ID": 103,
+        "Date": "2024-01-08",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2012,
+        "Student ID": 4,
+        "Course ID": 115,
+        "Date": "2024-01-05",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2013,
+        "Student ID": 5,
+        "Course ID": 110,
+        "Date": "2024-01-12",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2014,
+        "Student ID": 5,
+        "Course ID": 110,
+        "Date": "2024-01-01",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2015,
+        "Student ID": 5,
+        "Course ID": 101,
+        "Date": "2024-01-25",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2016,
+        "Student ID": 6,
+        "Course ID": 111,
+        "Date": "2024-01-28",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2017,
+        "Student ID": 6,
+        "Course ID": 107,
+        "Date": "2024-01-15",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2018,
+        "Student ID": 6,
+        "Course ID": 105,
+        "Date": "2024-01-26",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2019,
+        "Student ID": 7,
+        "Course ID": 101,
+        "Date": "2024-01-05",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2020,
+        "Student ID": 7,
+        "Course ID": 104,
+        "Date": "2024-01-16",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2021,
+        "Student ID": 7,
+        "Course ID": 104,
+        "Date": "2024-01-15",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2022,
+        "Student ID": 8,
+        "Course ID": 105,
+        "Date": "2024-01-20",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2023,
+        "Student ID": 8,
+        "Course ID": 102,
+        "Date": "2024-01-01",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2024,
+        "Student ID": 8,
+        "Course ID": 112,
+        "Date": "2024-01-11",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2025,
+        "Student ID": 9,
+        "Course ID": 110,
+        "Date": "2024-01-20",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2026,
+        "Student ID": 9,
+        "Course ID": 106,
+        "Date": "2024-01-30",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2027,
+        "Student ID": 9,
+        "Course ID": 102,
+        "Date": "2024-01-11",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2028,
+        "Student ID": 10,
+        "Course ID": 101,
+        "Date": "2024-01-29",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2029,
+        "Student ID": 10,
+        "Course ID": 113,
+        "Date": "2024-01-14",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2030,
+        "Student ID": 10,
+        "Course ID": 111,
+        "Date": "2024-01-03",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2031,
+        "Student ID": 11,
+        "Course ID": 105,
+        "Date": "2024-01-09",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2032,
+        "Student ID": 11,
+        "Course ID": 115,
+        "Date": "2024-01-15",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2033,
+        "Student ID": 11,
+        "Course ID": 103,
+        "Date": "2024-01-12",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2034,
+        "Student ID": 12,
+        "Course ID": 115,
+        "Date": "2024-01-24",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2035,
+        "Student ID": 12,
+        "Course ID": 115,
+        "Date": "2024-01-22",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2036,
+        "Student ID": 12,
+        "Course ID": 105,
+        "Date": "2024-01-18",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2037,
+        "Student ID": 13,
+        "Course ID": 110,
+        "Date": "2024-01-20",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2038,
+        "Student ID": 13,
+        "Course ID": 105,
+        "Date": "2024-01-03",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2039,
+        "Student ID": 13,
+        "Course ID": 110,
+        "Date": "2024-01-04",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2040,
+        "Student ID": 14,
+        "Course ID": 114,
+        "Date": "2024-01-17",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2041,
+        "Student ID": 14,
+        "Course ID": 102,
+        "Date": "2024-01-10",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2042,
+        "Student ID": 14,
+        "Course ID": 108,
+        "Date": "2024-01-31",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2043,
+        "Student ID": 15,
+        "Course ID": 114,
+        "Date": "2024-01-09",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2044,
+        "Student ID": 15,
+        "Course ID": 107,
+        "Date": "2024-01-01",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2045,
+        "Student ID": 15,
+        "Course ID": 115,
+        "Date": "2024-01-18",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2046,
+        "Student ID": 16,
+        "Course ID": 109,
+        "Date": "2024-01-05",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2047,
+        "Student ID": 16,
+        "Course ID": 112,
+        "Date": "2024-01-10",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2048,
+        "Student ID": 16,
+        "Course ID": 105,
+        "Date": "2024-01-05",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2049,
+        "Student ID": 17,
+        "Course ID": 103,
+        "Date": "2024-01-26",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2050,
+        "Student ID": 17,
+        "Course ID": 104,
+        "Date": "2024-01-11",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2051,
+        "Student ID": 17,
+        "Course ID": 114,
+        "Date": "2024-01-11",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2052,
+        "Student ID": 18,
+        "Course ID": 112,
+        "Date": "2024-01-29",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2053,
+        "Student ID": 18,
+        "Course ID": 102,
+        "Date": "2024-01-21",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2054,
+        "Student ID": 18,
+        "Course ID": 105,
+        "Date": "2024-01-08",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2055,
+        "Student ID": 19,
+        "Course ID": 104,
+        "Date": "2024-01-15",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2056,
+        "Student ID": 19,
+        "Course ID": 109,
+        "Date": "2024-01-24",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2057,
+        "Student ID": 19,
+        "Course ID": 107,
+        "Date": "2024-01-15",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2058,
+        "Student ID": 20,
+        "Course ID": 111,
+        "Date": "2024-01-31",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2059,
+        "Student ID": 20,
+        "Course ID": 101,
+        "Date": "2024-01-20",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2060,
+        "Student ID": 20,
+        "Course ID": 108,
+        "Date": "2024-01-10",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2061,
+        "Student ID": 21,
+        "Course ID": 101,
+        "Date": "2024-01-28",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2062,
+        "Student ID": 21,
+        "Course ID": 104,
+        "Date": "2024-01-26",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2063,
+        "Student ID": 21,
+        "Course ID": 108,
+        "Date": "2024-01-25",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2064,
+        "Student ID": 22,
+        "Course ID": 108,
+        "Date": "2024-01-22",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2065,
+        "Student ID": 22,
+        "Course ID": 101,
+        "Date": "2024-01-10",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2066,
+        "Student ID": 22,
+        "Course ID": 105,
+        "Date": "2024-01-17",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2067,
+        "Student ID": 23,
+        "Course ID": 110,
+        "Date": "2024-01-15",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2068,
+        "Student ID": 23,
+        "Course ID": 112,
+        "Date": "2024-01-05",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2069,
+        "Student ID": 23,
+        "Course ID": 103,
+        "Date": "2024-01-24",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2070,
+        "Student ID": 24,
+        "Course ID": 112,
+        "Date": "2024-01-27",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2071,
+        "Student ID": 24,
+        "Course ID": 108,
+        "Date": "2024-01-26",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2072,
+        "Student ID": 24,
+        "Course ID": 115,
+        "Date": "2024-01-17",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2073,
+        "Student ID": 25,
+        "Course ID": 111,
+        "Date": "2024-01-11",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2074,
+        "Student ID": 25,
+        "Course ID": 109,
+        "Date": "2024-01-14",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2075,
+        "Student ID": 25,
+        "Course ID": 108,
+        "Date": "2024-01-06",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2076,
+        "Student ID": 26,
+        "Course ID": 101,
+        "Date": "2024-01-27",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2077,
+        "Student ID": 26,
+        "Course ID": 101,
+        "Date": "2024-01-26",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2078,
+        "Student ID": 26,
+        "Course ID": 105,
+        "Date": "2024-01-28",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2079,
+        "Student ID": 27,
+        "Course ID": 114,
+        "Date": "2024-01-25",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2080,
+        "Student ID": 27,
+        "Course ID": 108,
+        "Date": "2024-01-18",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2081,
+        "Student ID": 27,
+        "Course ID": 108,
+        "Date": "2024-01-01",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2082,
+        "Student ID": 28,
+        "Course ID": 106,
+        "Date": "2024-01-25",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2083,
+        "Student ID": 28,
+        "Course ID": 106,
+        "Date": "2024-01-07",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2084,
+        "Student ID": 28,
+        "Course ID": 107,
+        "Date": "2024-01-12",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2085,
+        "Student ID": 29,
+        "Course ID": 107,
+        "Date": "2024-01-05",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2086,
+        "Student ID": 29,
+        "Course ID": 104,
+        "Date": "2024-01-07",
+        "Status": "Absent"
+    },
+    {
+        "Attendance ID": 2087,
+        "Student ID": 29,
+        "Course ID": 106,
+        "Date": "2024-01-20",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2088,
+        "Student ID": 30,
+        "Course ID": 104,
+        "Date": "2024-01-10",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2089,
+        "Student ID": 30,
+        "Course ID": 101,
+        "Date": "2024-01-23",
+        "Status": "Present"
+    },
+    {
+        "Attendance ID": 2090,
+        "Student ID": 30,
+        "Course ID": 113,
+        "Date": "2024-01-09",
+        "Status": "Absent"
+    }
+]

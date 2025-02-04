@@ -1,0 +1,632 @@
+[
+    {
+        "Student ID": 1,
+        "Student Name": "Tarun",
+        "Course ID": 111,
+        "Course Name": "Structural Analysis",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 1,
+        "Student Name": "Tarun",
+        "Course ID": 106,
+        "Course Name": "Power Systems",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 1,
+        "Student Name": "Tarun",
+        "Course ID": 111,
+        "Course Name": "Structural Analysis",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 2,
+        "Student Name": "Ananya",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 2,
+        "Student Name": "Ananya",
+        "Course ID": 102,
+        "Course Name": "Algorithms",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 2,
+        "Student Name": "Ananya",
+        "Course ID": 112,
+        "Course Name": "Surveying",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 3,
+        "Student Name": "Sunil",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 3,
+        "Student Name": "Sunil",
+        "Course ID": 109,
+        "Course Name": "Thermodynamics",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 3,
+        "Student Name": "Sunil",
+        "Course ID": 115,
+        "Course Name": "Software Engineering",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 4,
+        "Student Name": "Anil",
+        "Course ID": 109,
+        "Course Name": "Thermodynamics",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 4,
+        "Student Name": "Anil",
+        "Course ID": 106,
+        "Course Name": "Power Systems",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 4,
+        "Student Name": "Anil",
+        "Course ID": 107,
+        "Course Name": "Control Systems",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 5,
+        "Student Name": "Rahul",
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 5,
+        "Student Name": "Rahul",
+        "Course ID": 111,
+        "Course Name": "Structural Analysis",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 5,
+        "Student Name": "Rahul",
+        "Course ID": 101,
+        "Course Name": "Data Structures",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 6,
+        "Student Name": "Sneha",
+        "Course ID": 111,
+        "Course Name": "Structural Analysis",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 6,
+        "Student Name": "Sneha",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 6,
+        "Student Name": "Sneha",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 7,
+        "Student Name": "Kiran",
+        "Course ID": 112,
+        "Course Name": "Surveying",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 7,
+        "Student Name": "Kiran",
+        "Course ID": 103,
+        "Course Name": "Operating Systems",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 7,
+        "Student Name": "Kiran",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 8,
+        "Student Name": "Rajesh",
+        "Course ID": 109,
+        "Course Name": "Thermodynamics",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 8,
+        "Student Name": "Rajesh",
+        "Course ID": 113,
+        "Course Name": "Digital Electronics",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 8,
+        "Student Name": "Rajesh",
+        "Course ID": 108,
+        "Course Name": "Microprocessors",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 9,
+        "Student Name": "Meena",
+        "Course ID": 108,
+        "Course Name": "Microprocessors",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 9,
+        "Student Name": "Meena",
+        "Course ID": 103,
+        "Course Name": "Operating Systems",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 9,
+        "Student Name": "Meena",
+        "Course ID": 105,
+        "Course Name": "Computer Networks",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 10,
+        "Student Name": "Divya",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 10,
+        "Student Name": "Divya",
+        "Course ID": 105,
+        "Course Name": "Computer Networks",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 10,
+        "Student Name": "Divya",
+        "Course ID": 109,
+        "Course Name": "Thermodynamics",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 11,
+        "Student Name": "Vikram",
+        "Course ID": 113,
+        "Course Name": "Digital Electronics",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 11,
+        "Student Name": "Vikram",
+        "Course ID": 115,
+        "Course Name": "Software Engineering",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 11,
+        "Student Name": "Vikram",
+        "Course ID": 105,
+        "Course Name": "Computer Networks",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 12,
+        "Student Name": "Sanjay",
+        "Course ID": 101,
+        "Course Name": "Data Structures",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 12,
+        "Student Name": "Sanjay",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 12,
+        "Student Name": "Sanjay",
+        "Course ID": 102,
+        "Course Name": "Algorithms",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 13,
+        "Student Name": "Suresh",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 13,
+        "Student Name": "Suresh",
+        "Course ID": 101,
+        "Course Name": "Data Structures",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 13,
+        "Student Name": "Suresh",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 14,
+        "Student Name": "Naveen",
+        "Course ID": 111,
+        "Course Name": "Structural Analysis",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 14,
+        "Student Name": "Naveen",
+        "Course ID": 103,
+        "Course Name": "Operating Systems",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 14,
+        "Student Name": "Naveen",
+        "Course ID": 106,
+        "Course Name": "Power Systems",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 15,
+        "Student Name": "Rohan",
+        "Course ID": 111,
+        "Course Name": "Structural Analysis",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 15,
+        "Student Name": "Rohan",
+        "Course ID": 109,
+        "Course Name": "Thermodynamics",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 15,
+        "Student Name": "Rohan",
+        "Course ID": 101,
+        "Course Name": "Data Structures",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 16,
+        "Student Name": "Neha",
+        "Course ID": 106,
+        "Course Name": "Power Systems",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 16,
+        "Student Name": "Neha",
+        "Course ID": 106,
+        "Course Name": "Power Systems",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 16,
+        "Student Name": "Neha",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 17,
+        "Student Name": "Amit",
+        "Course ID": 105,
+        "Course Name": "Computer Networks",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 17,
+        "Student Name": "Amit",
+        "Course ID": 112,
+        "Course Name": "Surveying",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 17,
+        "Student Name": "Amit",
+        "Course ID": 103,
+        "Course Name": "Operating Systems",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 18,
+        "Student Name": "Manish",
+        "Course ID": 115,
+        "Course Name": "Software Engineering",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 18,
+        "Student Name": "Manish",
+        "Course ID": 101,
+        "Course Name": "Data Structures",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 18,
+        "Student Name": "Manish",
+        "Course ID": 115,
+        "Course Name": "Software Engineering",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 19,
+        "Student Name": "Deepak",
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 19,
+        "Student Name": "Deepak",
+        "Course ID": 111,
+        "Course Name": "Structural Analysis",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 19,
+        "Student Name": "Deepak",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 20,
+        "Student Name": "Arjun",
+        "Course ID": 105,
+        "Course Name": "Computer Networks",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 20,
+        "Student Name": "Arjun",
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 20,
+        "Student Name": "Arjun",
+        "Course ID": 107,
+        "Course Name": "Control Systems",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 21,
+        "Student Name": "Varun",
+        "Course ID": 109,
+        "Course Name": "Thermodynamics",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 21,
+        "Student Name": "Varun",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 21,
+        "Student Name": "Varun",
+        "Course ID": 105,
+        "Course Name": "Computer Networks",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 22,
+        "Student Name": "Geeta",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 22,
+        "Student Name": "Geeta",
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 22,
+        "Student Name": "Geeta",
+        "Course ID": 103,
+        "Course Name": "Operating Systems",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 23,
+        "Student Name": "Rekha",
+        "Course ID": 107,
+        "Course Name": "Control Systems",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 23,
+        "Student Name": "Rekha",
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 23,
+        "Student Name": "Rekha",
+        "Course ID": 108,
+        "Course Name": "Microprocessors",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 24,
+        "Student Name": "Lakshmi",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "A"
+    },
+    {
+        "Student ID": 24,
+        "Student Name": "Lakshmi",
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 24,
+        "Student Name": "Lakshmi",
+        "Course ID": 107,
+        "Course Name": "Control Systems",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 25,
+        "Student Name": "Swati",
+        "Course ID": 108,
+        "Course Name": "Microprocessors",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 25,
+        "Student Name": "Swati",
+        "Course ID": 112,
+        "Course Name": "Surveying",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 25,
+        "Student Name": "Swati",
+        "Course ID": 103,
+        "Course Name": "Operating Systems",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 26,
+        "Student Name": "Pooja",
+        "Course ID": 108,
+        "Course Name": "Microprocessors",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 26,
+        "Student Name": "Pooja",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 26,
+        "Student Name": "Pooja",
+        "Course ID": 115,
+        "Course Name": "Software Engineering",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 27,
+        "Student Name": "Priya",
+        "Course ID": 115,
+        "Course Name": "Software Engineering",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 27,
+        "Student Name": "Priya",
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 27,
+        "Student Name": "Priya",
+        "Course ID": 105,
+        "Course Name": "Computer Networks",
+        "Grade": "B"
+    },
+    {
+        "Student ID": 28,
+        "Student Name": "Harsha",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 28,
+        "Student Name": "Harsha",
+        "Course ID": 106,
+        "Course Name": "Power Systems",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 28,
+        "Student Name": "Harsha",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 29,
+        "Student Name": "Kavya",
+        "Course ID": 115,
+        "Course Name": "Software Engineering",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 29,
+        "Student Name": "Kavya",
+        "Course ID": 114,
+        "Course Name": "Analog Circuits",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 29,
+        "Student Name": "Kavya",
+        "Course ID": 104,
+        "Course Name": "Database Systems",
+        "Grade": "F"
+    },
+    {
+        "Student ID": 30,
+        "Student Name": "Bhavya",
+        "Course ID": 101,
+        "Course Name": "Data Structures",
+        "Grade": "C"
+    },
+    {
+        "Student ID": 30,
+        "Student Name": "Bhavya",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "D"
+    },
+    {
+        "Student ID": 30,
+        "Student Name": "Bhavya",
+        "Course ID": 110,
+        "Course Name": "Fluid Mechanics",
+        "Grade": "D"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "Student ID": 1,
+        "Course ID": 113,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 1,
+        "Course ID": 102,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 1,
+        "Course ID": 112,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 110,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 102,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 2,
+        "Course ID": 111,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 106,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 107,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 3,
+        "Course ID": 103,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 112,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 109,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 4,
+        "Course ID": 114,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 107,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 101,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 5,
+        "Course ID": 101,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 106,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 101,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 6,
+        "Course ID": 102,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 111,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 108,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 7,
+        "Course ID": 110,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 105,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 101,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 8,
+        "Course ID": 107,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 103,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 110,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 9,
+        "Course ID": 101,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 106,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 102,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 10,
+        "Course ID": 114,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 106,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 106,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 11,
+        "Course ID": 105,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 104,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 103,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 12,
+        "Course ID": 105,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 114,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 101,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 13,
+        "Course ID": 102,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 109,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 112,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 14,
+        "Course ID": 110,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 107,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 107,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 15,
+        "Course ID": 104,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 109,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 103,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 16,
+        "Course ID": 106,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 112,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 114,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 17,
+        "Course ID": 105,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 112,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 107,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 18,
+        "Course ID": 104,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 103,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 111,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 19,
+        "Course ID": 106,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 101,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 103,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 20,
+        "Course ID": 103,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 114,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 103,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 21,
+        "Course ID": 110,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 112,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 107,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 22,
+        "Course ID": 101,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 102,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 112,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 23,
+        "Course ID": 109,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 105,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 102,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 24,
+        "Course ID": 111,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 106,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 102,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 25,
+        "Course ID": 104,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 105,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 102,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 26,
+        "Course ID": 108,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 107,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 105,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 27,
+        "Course ID": 109,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 115,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 104,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 28,
+        "Course ID": 107,
+        "Grade": "F"
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 101,
+        "Grade": "B"
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 106,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 29,
+        "Course ID": 115,
+        "Grade": "A"
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 107,
+        "Grade": "C"
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 107,
+        "Grade": "D"
+    },
+    {
+        "Student ID": 30,
+        "Course ID": 103,
+        "Grade": "A"
+    }
+]
