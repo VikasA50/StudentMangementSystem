@@ -1,0 +1,28 @@
+Student ID,Name,Department,Course,Grade
+1,Tarun,Civil Engineering,Digital Electronics,F
+1,Tarun,Civil Engineering,Algorithms,A
+1,Tarun,Civil Engineering,Surveying,A
+2,Ananya,Electronics Engineering,Fluid Mechanics,F
+2,Ananya,Electronics Engineering,Algorithms,D
+2,Ananya,Electronics Engineering,Structural Analysis,B
+3,Sunil,Information Technology,Power Systems,A
+3,Sunil,Information Technology,Control Systems,A
+3,Sunil,Information Technology,Operating Systems,A
+4,Anil,Electronics Engineering,Surveying,C
+4,Anil,Electronics Engineering,Thermodynamics,A
+4,Anil,Electronics Engineering,Analog Circuits,C
+5,Rahul,Civil Engineering,Control Systems,B
+5,Rahul,Civil Engineering,Advanced Data Structures,B
+5,Rahul,Civil Engineering,Advanced Data Structures,B
+6,Sneha,Computer Science,Power Systems,F
+6,Sneha,Computer Science,Advanced Data Structures,A
+6,Sneha,Computer Science,Algorithms,A
+7,Kiran,Mechanical Engineering,Structural Analysis,D
+7,Kiran,Mechanical Engineering,Microprocessors,B
+7,Kiran,Mechanical Engineering,Fluid Mechanics,D
+8,Rajesh,Electronics Engineering,Computer Networks,B
+8,Rajesh,Electronics Engineering,Advanced Data Structures,B
+8,Rajesh,Electronics Engineering,Control Systems,F
+9,Meena,Mechanical Engineering,Operating Systems,F
+9,Meena,Mechanical Engineering,Fluid Mechanics,A
+9,Meena,Mechanical Engineering,Advanced Data Structures,F

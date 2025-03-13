@@ -1,0 +1,29 @@
+Student Performance Report
+========================================
+Student ID: 1, Name: Tarun, Department: Civil Engineering, Course: Digital Electronics, Grade: F
+Student ID: 1, Name: Tarun, Department: Civil Engineering, Course: Algorithms, Grade: A
+Student ID: 1, Name: Tarun, Department: Civil Engineering, Course: Surveying, Grade: A
+Student ID: 2, Name: Ananya, Department: Electronics Engineering, Course: Fluid Mechanics, Grade: F
+Student ID: 2, Name: Ananya, Department: Electronics Engineering, Course: Algorithms, Grade: D
+Student ID: 2, Name: Ananya, Department: Electronics Engineering, Course: Structural Analysis, Grade: B
+Student ID: 3, Name: Sunil, Department: Information Technology, Course: Power Systems, Grade: A
+Student ID: 3, Name: Sunil, Department: Information Technology, Course: Control Systems, Grade: A
+Student ID: 3, Name: Sunil, Department: Information Technology, Course: Operating Systems, Grade: A
+Student ID: 4, Name: Anil, Department: Electronics Engineering, Course: Surveying, Grade: C
+Student ID: 4, Name: Anil, Department: Electronics Engineering, Course: Thermodynamics, Grade: A
+Student ID: 4, Name: Anil, Department: Electronics Engineering, Course: Analog Circuits, Grade: C
+Student ID: 5, Name: Rahul, Department: Civil Engineering, Course: Control Systems, Grade: B
+Student ID: 5, Name: Rahul, Department: Civil Engineering, Course: Advanced Data Structures, Grade: B
+Student ID: 5, Name: Rahul, Department: Civil Engineering, Course: Advanced Data Structures, Grade: B
+Student ID: 6, Name: Sneha, Department: Computer Science, Course: Power Systems, Grade: F
+Student ID: 6, Name: Sneha, Department: Computer Science, Course: Advanced Data Structures, Grade: A
+Student ID: 6, Name: Sneha, Department: Computer Science, Course: Algorithms, Grade: A
+Student ID: 7, Name: Kiran, Department: Mechanical Engineering, Course: Structural Analysis, Grade: D
+Student ID: 7, Name: Kiran, Department: Mechanical Engineering, Course: Microprocessors, Grade: B
+Student ID: 7, Name: Kiran, Department: Mechanical Engineering, Course: Fluid Mechanics, Grade: D
+Student ID: 8, Name: Rajesh, Department: Electronics Engineering, Course: Computer Networks, Grade: B
+Student ID: 8, Name: Rajesh, Department: Electronics Engineering, Course: Advanced Data Structures, Grade: B
+Student ID: 8, Name: Rajesh, Department: Electronics Engineering, Course: Control Systems, Grade: F
+Student ID: 9, Name: Meena, Department: Mechanical Engineering, Course: Operating Systems, Grade: F
+Student ID: 9, Name: Meena, Department: Mechanical Engineering, Course: Fluid Mechanics, Grade: A
+Student ID: 9, Name: Meena, Department: Mechanical Engineering, Course: Advanced Data Structures, Grade: F
